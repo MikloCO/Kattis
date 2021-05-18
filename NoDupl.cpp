@@ -41,7 +41,8 @@ int main()
 	{
 		std::cout << "no" << std::endl;
 	}
-	else {
+	else 
+	{
 		std::cout << "yes" << std::endl;
 	}
 
