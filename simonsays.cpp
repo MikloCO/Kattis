@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int test_cases{ 0 };
-	std::string words, output;
+	std::string words;
 
 	cin >> test_cases;
 
