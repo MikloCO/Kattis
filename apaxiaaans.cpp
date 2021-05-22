@@ -1,4 +1,3 @@
-//https://open.kattis.com/problems/apaxiaaans
 #include <iostream>
 #include <string>
 
