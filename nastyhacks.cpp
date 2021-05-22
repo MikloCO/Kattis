@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/nastyhacks
 #include <iostream>
 #include <string>
 int main()
