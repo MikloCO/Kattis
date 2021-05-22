@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/numberfun
 #include <iostream>
 
 bool sub(int a, int b, int c)
