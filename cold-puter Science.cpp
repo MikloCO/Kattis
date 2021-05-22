@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/cold
 #include <iostream>
 
 int main()
