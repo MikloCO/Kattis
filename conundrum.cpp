@@ -4,8 +4,8 @@
 
 int main()
 {
-    std::string input, per = "PER";
     int count{ 0 };
+    std::string input, per = "PER";
     std::cin >> input;
 
     for (int i{ 0 }; i < input.length(); i++)
