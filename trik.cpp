@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/trik
 #include <iostream>
 #include <string>
 int main()
