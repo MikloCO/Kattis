@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/onechicken
 #include <iostream>
 
 int main()
