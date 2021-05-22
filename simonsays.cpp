@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/simonsays
 #include <iostream>
 #include <string>
 
