@@ -31,7 +31,6 @@ int main()
         }
         else 
         {
-
         std::cout << "Dr. Chaz needs " << rest <<
             " more pieces of chicken!" << std::endl;
         }
