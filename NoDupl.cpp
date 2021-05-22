@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/nodup
 #include <sstream>
 #include <iostream>
 #include <vector>
