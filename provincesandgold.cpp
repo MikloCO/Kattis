@@ -1,5 +1,5 @@
+//https://open.kattis.com/problems/provincesandgold
 #include <iostream>
-
 using namespace std;
 
 void CheckNPrintForVictoryCards(int sum)
