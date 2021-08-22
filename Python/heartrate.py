@@ -1,5 +1,5 @@
 #https://open.kattis.com/problems/heartrate
-test_cases=int(input()) #testcase number
+test_cases=int(input()) 
 for i in range(test_cases):
     b, p = map(float, input().split())
 
