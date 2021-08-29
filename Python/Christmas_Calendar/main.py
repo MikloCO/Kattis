@@ -10,5 +10,3 @@ for i in range(len(a_list) - 1):
         if a_list[i] + a_list[j + 1] == 2020:
             print(a_list[i] * a_list[j + 1])
             quit()
-
-
