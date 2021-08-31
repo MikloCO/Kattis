@@ -27,9 +27,7 @@ int main()
 	for (int yPos = 1; yPos < map_height; yPos++)
 	{
 		if (a_list[yPos][(xPos += 3) % a_list[0].size()] == '#')
-		{
-			countTrees++;
-		}	
+			countTrees++;	
 	}
 	cout << "Total passed trees= " << countTrees;
 
