@@ -15,7 +15,6 @@ for firstwordindex in range(0, word_length):
                     print(text_from_grandma[x], end='')
                 exit()
 
-
 countCorrectLetters = 0
 for firstwordindex in range(0, word_length):
     if(firstwordindex != 0):
