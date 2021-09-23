@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/erase
 deletion_amount = int(input())
 file_1 = input()
 file_2 = input()
